@@ -1,0 +1,2 @@
+# FIctometer_algorithrm-for-classifying-articles-into-fiction-and-non_fiction-category-
+The "Fictometer Algorithm" is an innovative project aimed at developing an advanced automated system that classifies articles into two distinct categories: fiction and non-fiction. With the exponential growth of digital content and online publications, the need for accurate content classification has become paramount
